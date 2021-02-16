@@ -13,6 +13,14 @@ h1{ color: #4aaaa5; font-size: 42px; }
     font-size: 27px;
 }
 
+.WhatsNew{
+    text-align: center;
+}
+
+.ChangingList {
+    width: 60%;
+    margin: auto;
+}
 footer{ border-top:9px solid #4aaaa5; }
 .form-control{ border-radius: 0;  }
 label{ font-weight: 400; }
